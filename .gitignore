@@ -1,0 +1,11 @@
+.vscode
+
+#忽略当前文件夹和所有子文件（递归）下的目录
+*_build/
+*.pyc
+*Listings/
+*Object/
+*RTE/
+*DebugConfig/
+app.uvguix*
+
